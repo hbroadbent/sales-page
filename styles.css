@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Oxygen&display=swap");
+
+body {
+    font-family: 'Oxygen', serif;
+    background-image: url("https://www.pexels.com/photo/gray-wood-surface-951240/")
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    color:green;
+}
+h1 a {
+    color:red;
+}
+h2 a:hover {
+    color:orange;
+}
+
+.jurassicpark {
+    border-radius: 30px;
+}
+.wallacegromit:hover {
+    border-radius: 30px;
+    box-shadow: 5px 10px #f50303;
+}
+ul li a {
+    color:pink;
+    text-decoration: none
+}
